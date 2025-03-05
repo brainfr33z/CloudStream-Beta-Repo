@@ -7,7 +7,7 @@
       "name": "Soap2dau",
       "version": "1.0",
       "apk": "https://raw.githubusercontent.com/brainfr33z/CloudStream-Beta-Repo/main/extensions/Soap2dauProvider.kt",
-      "icon": "https://raw.githubusercontent.com/brainfr33z/CloudStream-Beta-Repo/main/assets/soap2dau.png",
+      "icon": "https://raw.githubusercontent.com/brainfr33z/CloudStream-Beta-Repo/main/assets/icon.png",
       "sources": ["https://soap2dau.xyz"],
       "nsfw": false
     }
